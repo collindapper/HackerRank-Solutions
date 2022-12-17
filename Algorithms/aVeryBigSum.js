@@ -1,5 +1,4 @@
 function aVeryBigSum(ar) {
-  // Write your code here
   var arrSum = 0;
   var arrLeng = ar.length;
 
